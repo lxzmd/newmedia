@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BLL", "BLL", "{80174643-93F3-4489-9BAD-9DE8B2C60D60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogisticsExpress.BLL", "LogisticsExpress.BLL\LogisticsExpress.BLL.csproj", "{2003EB8C-06F7-4749-887D-AABDEA927B06}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DAL", "DAL", "{654A3EA9-507C-4BF6-95A6-36C148B8D219}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogisticsExpress.DAL", "LogisticsExpress.DAL\LogisticsExpress.DAL.csproj", "{1E481A5E-CB97-4229-B6F1-A4BA9E338DF5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Model", "Model", "{703A4F23-C55D-4E0C-9A45-74DA49C9A2CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogisticsExpress.Model", "LogisticsExpress.Model\LogisticsExpress.Model.csproj", "{679742BC-5D6E-4D45-AC33-6205E8B52C3C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WebSite", "WebSite", "{CB21D4A1-0B49-4D17-9A69-00B250F326E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogisticsExpress.Web", "LogisticsExpress.Web\LogisticsExpress.Web.csproj", "{E9615D70-70D9-4F30-A140-A438250E332D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2003EB8C-06F7-4749-887D-AABDEA927B06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2003EB8C-06F7-4749-887D-AABDEA927B06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2003EB8C-06F7-4749-887D-AABDEA927B06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2003EB8C-06F7-4749-887D-AABDEA927B06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E481A5E-CB97-4229-B6F1-A4BA9E338DF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E481A5E-CB97-4229-B6F1-A4BA9E338DF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E481A5E-CB97-4229-B6F1-A4BA9E338DF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E481A5E-CB97-4229-B6F1-A4BA9E338DF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{679742BC-5D6E-4D45-AC33-6205E8B52C3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{679742BC-5D6E-4D45-AC33-6205E8B52C3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{679742BC-5D6E-4D45-AC33-6205E8B52C3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{679742BC-5D6E-4D45-AC33-6205E8B52C3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9615D70-70D9-4F30-A140-A438250E332D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9615D70-70D9-4F30-A140-A438250E332D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9615D70-70D9-4F30-A140-A438250E332D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9615D70-70D9-4F30-A140-A438250E332D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2003EB8C-06F7-4749-887D-AABDEA927B06} = {80174643-93F3-4489-9BAD-9DE8B2C60D60}
+		{1E481A5E-CB97-4229-B6F1-A4BA9E338DF5} = {654A3EA9-507C-4BF6-95A6-36C148B8D219}
+		{679742BC-5D6E-4D45-AC33-6205E8B52C3C} = {703A4F23-C55D-4E0C-9A45-74DA49C9A2CA}
+		{E9615D70-70D9-4F30-A140-A438250E332D} = {CB21D4A1-0B49-4D17-9A69-00B250F326E2}
+	EndGlobalSection
+EndGlobal

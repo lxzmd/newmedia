@@ -1,0 +1,14 @@
+c:\users\pc\documents\visual studio 2015\Projects\LogisticsExpress\LogisticsExpress.DAL\bin\Debug\LogisticsExpress.DAL.dll.config
+c:\users\pc\documents\visual studio 2015\Projects\LogisticsExpress\LogisticsExpress.DAL\bin\Debug\LogisticsExpress.DAL.dll
+c:\users\pc\documents\visual studio 2015\Projects\LogisticsExpress\LogisticsExpress.DAL\bin\Debug\LogisticsExpress.DAL.pdb
+c:\users\pc\documents\visual studio 2015\Projects\LogisticsExpress\LogisticsExpress.DAL\bin\Debug\EntityFramework.dll
+c:\users\pc\documents\visual studio 2015\Projects\LogisticsExpress\LogisticsExpress.DAL\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\pc\documents\visual studio 2015\Projects\LogisticsExpress\LogisticsExpress.DAL\bin\Debug\LogisticsExpress.Model.dll
+c:\users\pc\documents\visual studio 2015\Projects\LogisticsExpress\LogisticsExpress.DAL\bin\Debug\MySql.Data.dll
+c:\users\pc\documents\visual studio 2015\Projects\LogisticsExpress\LogisticsExpress.DAL\bin\Debug\MySql.Data.Entity.EF6.dll
+c:\users\pc\documents\visual studio 2015\Projects\LogisticsExpress\LogisticsExpress.DAL\bin\Debug\LogisticsExpress.Model.pdb
+c:\users\pc\documents\visual studio 2015\Projects\LogisticsExpress\LogisticsExpress.DAL\bin\Debug\EntityFramework.xml
+c:\users\pc\documents\visual studio 2015\Projects\LogisticsExpress\LogisticsExpress.DAL\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\pc\documents\visual studio 2015\Projects\LogisticsExpress\LogisticsExpress.DAL\obj\Debug\LogisticsExpress.DAL.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2015\Projects\LogisticsExpress\LogisticsExpress.DAL\obj\Debug\LogisticsExpress.DAL.dll
+c:\users\pc\documents\visual studio 2015\Projects\LogisticsExpress\LogisticsExpress.DAL\obj\Debug\LogisticsExpress.DAL.pdb

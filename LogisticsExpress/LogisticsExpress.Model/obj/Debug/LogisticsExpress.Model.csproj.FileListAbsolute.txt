@@ -1,0 +1,4 @@
+c:\users\pc\documents\visual studio 2015\Projects\LogisticsExpress\LogisticsExpress.Model\bin\Debug\LogisticsExpress.Model.dll
+c:\users\pc\documents\visual studio 2015\Projects\LogisticsExpress\LogisticsExpress.Model\bin\Debug\LogisticsExpress.Model.pdb
+c:\users\pc\documents\visual studio 2015\Projects\LogisticsExpress\LogisticsExpress.Model\obj\Debug\LogisticsExpress.Model.dll
+c:\users\pc\documents\visual studio 2015\Projects\LogisticsExpress\LogisticsExpress.Model\obj\Debug\LogisticsExpress.Model.pdb
